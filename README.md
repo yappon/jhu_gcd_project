@@ -14,6 +14,9 @@ Before you run this script, please locate following files to the work directory;
 * features.txt
 * activity_labels.txt
 
+You can run this script in your work directory just by;
+'source('run_analysis.R')'
+
 This script creates/removes following variables as intermediate;
 * data: Dataframe to store training/test data
 * activity: Dataframe to store training/test activity labal data
